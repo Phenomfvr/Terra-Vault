@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Pixel Operator Mono";
+  src: url("/fonts/PixelOperator.ttf") format("truetype"),
+    url("/fonts/PixelOperator-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
